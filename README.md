@@ -1,5 +1,5 @@
 # MHW-Builder
-http://honeyhunterworld.com/wp-content/uploads/2018/03/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-2.png
+![MHW Builed Logo](http://honeyhunterworld.com/wp-content/uploads/2018/03/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-2.png)
 
 MHW Builder is character armoury tool for building your Monster Hunter World Character.
 
